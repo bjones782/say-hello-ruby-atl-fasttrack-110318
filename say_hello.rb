@@ -5,7 +5,7 @@
 # end
 
 def say_hello(name = "Ruby Programmer!")
-  greeting
-  greeting("Brooke")
   puts "Hello, #{name}"
 end
+
+say_
