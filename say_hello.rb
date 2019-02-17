@@ -4,7 +4,7 @@
 #   puts message
 # end
 
-def say_hello(name)
+def say_hello(name = "Ruby Programmer!")
   greeting
   greeting("Brooke")
   puts "Hello, #{name}"
